@@ -60,7 +60,7 @@ def count_down(count):
 
 
 window = Tk()
-window.title("Pomodoro")
+window.title("Work Timer")
 window.config(padx=60, pady=30, bg=YELLOW)
 
 title_label = Label(text="Timer", fg=GREEN, bg=YELLOW, font=(FONT_NAME, 45, "bold"))
